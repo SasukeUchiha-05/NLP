@@ -1,2 +1,7 @@
 *.txt
 *.pdf
+*.csv
+*.zip
+.es
+.en
+.xml
